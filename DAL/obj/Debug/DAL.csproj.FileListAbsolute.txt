@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\KursProject\DAL\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\KursProject\DAL\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\KursProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\KursProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\KursProject\DAL\obj\Debug\DAL.dll
+C:\Users\asus\Desktop\KursProject\DAL\obj\Debug\DAL.pdb
+C:\Users\asus\Desktop\KursProject\DAL\bin\Debug\BOL.dll
+C:\Users\asus\Desktop\KursProject\DAL\bin\Debug\BOL.pdb
+C:\Users\asus\Desktop\KursProject\DAL\obj\Debug\DAL.csproj.CopyComplete
